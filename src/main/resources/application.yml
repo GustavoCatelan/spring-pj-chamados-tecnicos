@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: desenvolvimento
+  jpa:
+    open-in-view: false
+server:
+  port: 80
+  compression:
+    enabled: true
